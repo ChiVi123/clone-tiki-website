@@ -1,0 +1,1 @@
+export const TABLE_HEAD = ['Image', 'Product', 'Quantity', 'Sum Price', 'Delivery to', 'Order At', 'Action'];
